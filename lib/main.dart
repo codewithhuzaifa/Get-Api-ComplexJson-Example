@@ -38,4 +38,4 @@ class MyApp extends StatelessWidget {
 }
 
 
-//In this example json started from {} and the products array[] and model also created.
+//In this example json started from {} and then products array[] and model also created.
